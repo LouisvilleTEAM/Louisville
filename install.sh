@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+
 cd $HOME/Louisville
 install() {
 rm -rf $HOME/.telegram-cli
