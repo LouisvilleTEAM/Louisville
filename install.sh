@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bash
 cd $HOME/Louisville
 install() {
 rm -rf $HOME/.telegram-cli
@@ -51,5 +51,3 @@ rm -rf luarocks*
 cd Louisville
 rm -rf luarocks*
 lua start.lua
-
-
